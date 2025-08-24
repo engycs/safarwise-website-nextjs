@@ -1,0 +1,7 @@
+# llms.txt — simple guidance for AI crawlers
+Owner: Safarwise
+Contact: amin@safarwise.com
+Allow: /
+Disallow: /private/
+Sitemap: https://safarwise.com/sitemap.xml
+Notes: Public site content may be used for indexing and summarization. Do not store personal data.
